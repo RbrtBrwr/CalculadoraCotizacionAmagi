@@ -526,6 +526,17 @@
         nuevoCliente.ListasGIA.ListasTIC.ListaSetupTIC.ListaServidoresVirtuales = ListasTemporales.ListaTICServidoresVirtuales;
         nuevoCliente.ListasGIA.ListasTIC.ListaSetupTIC.ListaPlataformasCentralizadas = ListasTemporales.ListaTICPlataformasCentralizadas;
         ListasTemporales = new ListasSetupTemporales();
+        NavigationManager.NavigateTo("/SeleccionOngoing/TIC");
+    }
+
+    private void ContinuarAPrueba()
+    {
+        nuevoCliente.ListasGIA.ListasTIC.ListaSetupTIC.ListaTelecomunicaciones = ListasTemporales.ListaTICTelecomunicaciones;
+        nuevoCliente.ListasGIA.ListasTIC.ListaSetupTIC.ListaBasesDeDatos = ListasTemporales.ListaTICBasesDeDatos;
+        nuevoCliente.ListasGIA.ListasTIC.ListaSetupTIC.ListaServidoresFisicos = ListasTemporales.ListaTICServidoresFisicos;
+        nuevoCliente.ListasGIA.ListasTIC.ListaSetupTIC.ListaServidoresVirtuales = ListasTemporales.ListaTICServidoresVirtuales;
+        nuevoCliente.ListasGIA.ListasTIC.ListaSetupTIC.ListaPlataformasCentralizadas = ListasTemporales.ListaTICPlataformasCentralizadas;
+        ListasTemporales = new ListasSetupTemporales();
         NavigationManager.NavigateTo("/resumenPrueba");
     }
 

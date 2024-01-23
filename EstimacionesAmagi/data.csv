@@ -1,0 +1,574 @@
+,Tipo,Fecha de Apertura,Urgencia,Impacto,Prioridad,Cliente,Area,Categoria,Sub-Categoria,Año,Mes,Tiempo Total,Sector
+0,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,0.3,Financiero
+1,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Impresoras y Escaner,2023,11,0.03,Financiero
+2,Requerimiento,2023-11,Alta,Alta,Alta,AMAGI,Telecomunicaciones,Telecomunicaciones,Administracion de Redes,2023,11,0.57,Servicios
+3,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,5.83,Financiero
+4,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,6.77,Financiero
+5,Requerimiento,2023-10,Baja,Baja,Muy baja,CAVESPA,Soporte Tecnico,Estaciones de Trabajo,Computadores/Hardware,2023,10,7.28,Servicios
+6,Requerimiento,2023-11,Mediana,Baja,Mediana,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Implementaciones de Planes de Arranque,2023,11,0.32,Financiero
+7,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.0,Financiero
+8,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Implementaciones de Planes de Arranque,2023,11,0.72,Financiero
+9,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Plataforma Centralizada,Administracion Core Bancario (AS-400),Servicios,2023,11,0.32,Financiero
+10,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,6.48,Financiero
+11,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Plataforma Centralizada,Administracion Core Bancario (AS-400),Servicios,2023,11,1.95,Financiero
+12,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,11,4.52,Financiero
+13,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Telefonia,2023,11,3.03,Financiero
+14,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus International,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,2.0,Financiero
+15,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Outlook (Escritorio),2023,11,2.72,Financiero
+16,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,2.9,Financiero
+17,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,3.67,Financiero
+18,Requerimiento,2023-11,Mediana,Baja,Mediana,Banplus International,Plataforma Distribuida,Administracion de Servidores,Directorio Activo,2023,11,1.8,Financiero
+19,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,3.38,Financiero
+20,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,11,2.35,Financiero
+21,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,3.77,Financiero
+22,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,11,1.58,Financiero
+23,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Impresoras y Escaner,2023,11,2.05,Financiero
+24,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Telefonia,2023,11,2.83,Financiero
+25,Requerimiento,2023-11,Alta,Mediana,Alta,AMAGI,Plataforma Distribuida,Administracion de Servidores,Directorio Activo,2023,11,2.25,Servicios
+26,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus International,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,3.6,Financiero
+27,Requerimiento,2023-11,Mediana,Baja,Mediana,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Implementaciones de Planes de Arranque,2023,11,0.08,Financiero
+28,Requerimiento,2023-11,Alta,Alta,Alta,Banplus International,Telecomunicaciones,Telecomunicaciones,Administracion de Redes,2023,11,0.9,Financiero
+29,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Manejo de Archivos,2023,11,0.12,Financiero
+30,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus International,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,0.18,Financiero
+31,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,1.07,Financiero
+32,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,11,0.18,Financiero
+33,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,4.72,Financiero
+34,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,4.93,Financiero
+35,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,4.25,Financiero
+37,Requerimiento,2023-11,Alta,Alta,Alta,AMAGI,Telecomunicaciones,Telecomunicaciones,Administracion de Redes,2023,11,0.92,Servicios
+38,Requerimiento,2023-11,Muy urgente,Muy urgente,Muy urgente,CAVESPA,Telecomunicaciones,Telecomunicaciones,Administracion de Redes,2023,11,1.17,Servicios
+39,Requerimiento,2023-11,Muy urgente,Muy urgente,Muy urgente,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Ciberseguridad DLC,2023,11,32.13,Financiero
+40,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,5.93,Financiero
+41,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Outlook (Escritorio),2023,11,6.32,Financiero
+42,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,2.5,Financiero
+43,Requerimiento,2023-11,Mediana,Baja,Mediana,Banplus International,Plataforma Distribuida,Administracion de Servidores,Servcio de Correo Electronico (Office 365),2023,11,1.0,Financiero
+44,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.17,Financiero
+45,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.48,Financiero
+46,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Aplicaciones Corporativas,2023,11,0.1,Financiero
+47,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Telefonia,2023,11,1.57,Financiero
+48,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,3.55,Financiero
+49,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,1.8,Financiero
+50,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Telefonia,2023,11,2.03,Financiero
+51,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Impresoras y Escaner,2023,11,2.17,Financiero
+52,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,2.32,Financiero
+53,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,2.62,Financiero
+54,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Telefonia,2023,11,3.15,Financiero
+55,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,4.07,Financiero
+56,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,2.07,Financiero
+57,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,11,2.42,Financiero
+58,Requerimiento,2023-11,Mediana,Mediana,Mediana,AMAGI,Soporte Tecnico,Estaciones de Trabajo,Cambio de Hardware,2023,11,0.1,Servicios
+59,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,9.45,Financiero
+60,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,9.78,Financiero
+61,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,0.38,Financiero
+62,Requerimiento,2023-11,Mediana,Baja,Mediana,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Implementaciones de Planes de Arranque,2023,11,0.43,Financiero
+63,Requerimiento,2023-10,Alta,Alta,Alta,CAVESPA,Soporte Tecnico,Estaciones de Trabajo,Impresoras y Escaner,2023,10,0.32,Servicios
+64,Requerimiento,2023-11,Alta,Mediana,Alta,AMAGI,Plataforma Distribuida,Administracion de Servidores,Directorio Activo,2023,11,0.95,Servicios
+65,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.17,Financiero
+66,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.1,Financiero
+67,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,4.93,Financiero
+68,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,4.8,Financiero
+69,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.05,Financiero
+70,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Plataforma Centralizada,Administracion Core Bancario (AS-400),Servicios,2023,11,1.95,Financiero
+71,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.03,Financiero
+72,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,4.72,Financiero
+73,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,4.2,Financiero
+74,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Outlook (Escritorio),2023,11,3.98,Financiero
+75,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.13,Financiero
+76,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,2.83,Financiero
+77,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.07,Financiero
+78,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.15,Financiero
+79,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.03,Financiero
+80,Requerimiento,2023-11,Alta,Mediana,Alta,AMAGI,Plataforma Distribuida,Administracion de Servidores,Directorio Activo,2023,11,0.22,Servicios
+81,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus International,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,11,0.23,Financiero
+82,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,11,5.77,Financiero
+83,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,5.02,Financiero
+84,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,5.13,Financiero
+85,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,6.47,Financiero
+86,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Outlook (Escritorio),2023,11,4.32,Financiero
+87,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus International,Soporte Tecnico,Estaciones de Trabajo,Outlook (Escritorio),2023,11,2.77,Financiero
+88,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,0.17,Financiero
+89,Requerimiento,2023-11,Mediana,Baja,Mediana,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Implementaciones de Planes de Arranque,2023,11,0.38,Financiero
+90,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Aplicaciones Corporativas,2023,11,0.15,Financiero
+91,Requerimiento,2023-11,Alta,Alta,Alta,AMAGI,Telecomunicaciones,Telecomunicaciones,Administracion de Redes,2023,11,0.53,Servicios
+92,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,3.43,Financiero
+93,Requerimiento,2023-11,Mediana,Baja,Mediana,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Implementaciones de Planes de Arranque,2023,11,1.62,Financiero
+94,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus International,Bases de Datos,Administracion de Base de Datos,Administracion de Instancias,2023,11,24.0,Financiero
+95,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,11,0.92,Financiero
+96,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus International,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,8.8,Financiero
+97,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.12,Financiero
+98,Requerimiento,2023-11,Mediana,Mediana,Mediana,AMAGI,Telecomunicaciones,Administracion de Servidores,Aplicaciones Corporativas,2023,11,0.05,Servicios
+99,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,4.68,Financiero
+100,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Telefonia,2023,11,3.75,Financiero
+101,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,5.58,Financiero
+102,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.03,Financiero
+103,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,11.55,Financiero
+104,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,11,4.57,Financiero
+105,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.33,Financiero
+106,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Outlook (Escritorio),2023,11,4.12,Financiero
+107,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,3.58,Financiero
+108,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,3.98,Financiero
+109,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.25,Financiero
+110,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.07,Financiero
+111,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.2,Financiero
+112,Requerimiento,2023-11,Mediana,Baja,Mediana,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Implementaciones de Planes de Arranque,2023,11,0.23,Financiero
+113,Requerimiento,2023-11,Mediana,Baja,Mediana,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Aplicaciones de Servidor,2023,11,0.28,Financiero
+114,Requerimiento,2023-11,Alta,Mediana,Alta,AMAGI,Plataforma Distribuida,Administracion de Servidores,Directorio Activo,2023,11,0.68,Servicios
+115,Incidencia,2023-11,Mediana,Mediana,Mediana,AMAGI,Plataforma Distribuida,Administracion de Servidores,Aplicaciones Corporativas,2023,11,6.68,Servicios
+116,Requerimiento,2023-11,Alta,Mediana,Alta,AMAGI,Plataforma Distribuida,Administracion de Servidores,Directorio Activo,2023,11,0.43,Servicios
+117,Requerimiento,2023-11,Alta,Muy urgente,Muy urgente,AMAGI,Plataforma Distribuida,Administracion de Servidores,Directorio Activo,2023,11,3.35,Servicios
+118,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,3.02,Financiero
+119,Requerimiento,2023-11,Mediana,Mediana,Mediana,AMAGI,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,3.42,Servicios
+120,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,2.58,Financiero
+121,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,2.75,Financiero
+122,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Telefonia,2023,11,3.72,Financiero
+123,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,5.18,Financiero
+124,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,4.52,Financiero
+125,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,5.3,Financiero
+126,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Outlook (Escritorio),2023,11,3.8,Financiero
+127,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,4.78,Financiero
+128,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.07,Financiero
+129,Requerimiento,2023-11,Alta,Mediana,Mediana,AMAGI,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,11,1.55,Servicios
+130,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.15,Financiero
+131,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.35,Financiero
+132,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,3.65,Financiero
+133,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,3.3,Financiero
+134,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,4.95,Financiero
+135,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,4.17,Financiero
+136,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,1.07,Financiero
+137,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Telefonia,2023,11,1.32,Financiero
+138,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,2.2,Financiero
+139,Requerimiento,2023-11,Mediana,Baja,Mediana,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Implementaciones de Planes de Arranque,2023,11,0.13,Financiero
+140,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus International,Telecomunicaciones,Telecomunicaciones,Administracion de Telefonia,2023,11,0.6,Financiero
+141,Requerimiento,2023-11,Mediana,Mediana,Mediana,AMAGI,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,2.38,Servicios
+142,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus International,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,3.18,Financiero
+143,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.13,Financiero
+144,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus International,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,0.42,Financiero
+145,Requerimiento,2023-11,Mediana,Mediana,Mediana,AMAGI,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,0.8,Servicios
+146,Requerimiento,2023-11,Mediana,Baja,Mediana,Banplus Venezuela,Plataforma Centralizada,Administracion Core Bancario (AS-400),Implementaciones de Planes de Arranque,2023,11,0.15,Financiero
+147,Incidencia,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Administracion de Servidores (Agencias),2023,11,0.52,Financiero
+148,Incidencia,2023-11,Muy urgente,Alta,Muy urgente,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Aplicaciones Corporativas,2023,11,0.13,Financiero
+149,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus International,Telecomunicaciones,Telecomunicaciones,Configuracion de Firewall,2023,11,0.22,Financiero
+150,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.03,Financiero
+151,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.08,Financiero
+152,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.08,Financiero
+153,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,3.15,Financiero
+154,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,0.65,Financiero
+155,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.28,Financiero
+156,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,1.9,Financiero
+157,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,2.05,Financiero
+158,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.55,Financiero
+159,Requerimiento,2023-11,Alta,Mediana,Mediana,AMAGI,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,11,0.78,Servicios
+160,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,3.48,Financiero
+161,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.07,Financiero
+162,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus International,Plataforma Distribuida,Administracion de Servidores,Directorio Activo,2023,11,4.37,Financiero
+163,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,0.63,Financiero
+164,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,3.17,Financiero
+165,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,11,1.78,Financiero
+166,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Telefonia,2023,11,3.47,Financiero
+167,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Outlook (Escritorio),2023,11,2.18,Financiero
+168,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,3.88,Financiero
+169,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Telefonia,2023,11,2.45,Financiero
+170,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,11,2.98,Financiero
+171,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,11,3.08,Financiero
+172,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Implementaciones de Planes de Arranque,2023,11,0.4,Financiero
+173,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,1.22,Financiero
+174,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,1.12,Financiero
+175,Requerimiento,2023-11,Mediana,Mediana,Mediana,AMAGI,Soporte Tecnico,Estaciones de Trabajo,Telefonia,2023,11,1.27,Servicios
+176,Requerimiento,2023-11,Mediana,Mediana,Mediana,AMAGI,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,3.87,Servicios
+177,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,1.32,Financiero
+178,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus International,Soporte Tecnico,Estaciones de Trabajo,Impresoras y Escaner,2023,11,2.72,Financiero
+179,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus International,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,11,2.88,Financiero
+180,Requerimiento,2023-11,Mediana,Baja,Mediana,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Implementaciones de Planes de Arranque,2023,11,0.13,Financiero
+181,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Manejo de Archivos,2023,11,0.4,Financiero
+182,Requerimiento,2023-11,Mediana,Mediana,Mediana,AMAGI,Plataforma Distribuida,Administracion de Servidores,Aplicaciones Corporativas,2023,11,3.2,Servicios
+183,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,3.53,Financiero
+184,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.38,Financiero
+185,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Plataforma Centralizada,Administracion Core Bancario (AS-400),Servicios,2023,11,6.38,Financiero
+186,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,4.05,Financiero
+187,Requerimiento,2023-11,Mediana,Mediana,Mediana,AMAGI,Telecomunicaciones,Telecomunicaciones,Enlaces de comunicacion,2023,11,0.05,Servicios
+188,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,2.05,Financiero
+189,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,2.13,Financiero
+190,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.12,Financiero
+191,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Telefonia,2023,11,3.57,Financiero
+192,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.0,Financiero
+193,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,5.12,Financiero
+194,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,1.42,Financiero
+195,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,6.47,Financiero
+196,Requerimiento,2023-11,Mediana,Mediana,Mediana,AMAGI,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,1.52,Servicios
+197,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Outlook (Escritorio),2023,11,3.33,Financiero
+198,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,2.93,Financiero
+199,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Telefonia,2023,11,3.77,Financiero
+200,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,2.2,Financiero
+201,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.1,Financiero
+202,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.1,Financiero
+203,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,3.18,Financiero
+204,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus International,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,11,0.42,Financiero
+205,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus International,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,11,2.52,Financiero
+206,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,1.5,Financiero
+207,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,2.37,Financiero
+208,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Impresoras y Escaner,2023,11,1.55,Financiero
+209,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,11,0.25,Financiero
+210,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus International,Soporte Tecnico,Estaciones de Trabajo,Outlook (Escritorio),2023,11,3.08,Financiero
+211,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,0.6,Financiero
+212,Requerimiento,2023-11,Mediana,Mediana,Mediana,AMAGI,Telecomunicaciones,Administracion de Servidores,Aplicaciones Corporativas,2023,11,25.02,Servicios
+213,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,0.52,Financiero
+214,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus International,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,3.2,Financiero
+215,Requerimiento,2023-11,Mediana,Baja,Mediana,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Implementaciones de Planes de Arranque,2023,11,0.27,Financiero
+216,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.0,Financiero
+217,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.07,Financiero
+218,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus International,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,2.25,Financiero
+219,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,5.22,Financiero
+220,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,4.68,Financiero
+221,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,3.9,Financiero
+222,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,3.57,Financiero
+223,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,3.67,Financiero
+224,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Plataforma Centralizada,Administracion Core Bancario (AS-400),Servicios,2023,11,0.67,Financiero
+225,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,3.4,Financiero
+226,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Impresoras y Escaner,2023,11,4.28,Financiero
+227,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus International,Plataforma Distribuida,Administracion de Servidores,Manejo de Archivos,2023,11,0.42,Financiero
+228,Requerimiento,2023-11,Alta,Alta,Alta,Banplus International,Telecomunicaciones,Telecomunicaciones,Administracion de Redes,2023,11,0.33,Financiero
+229,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,2.85,Financiero
+230,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.15,Financiero
+231,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,11,7.95,Financiero
+232,Requerimiento,2023-11,Alta,Muy urgente,Muy urgente,AMAGI,Plataforma Distribuida,Administracion de Servidores,Directorio Activo,2023,11,1.15,Servicios
+233,Requerimiento,2023-11,Alta,Muy urgente,Muy urgente,AMAGI,Plataforma Distribuida,Administracion de Servidores,Directorio Activo,2023,11,0.03,Servicios
+234,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,0.68,Financiero
+235,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,1.25,Financiero
+236,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.08,Financiero
+237,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,1.87,Financiero
+238,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus International,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,5.27,Financiero
+239,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,0.22,Financiero
+240,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,0.2,Financiero
+241,Requerimiento,2023-11,Mediana,Baja,Mediana,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Aplicaciones de Servidor,2023,11,0.12,Financiero
+242,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.05,Financiero
+243,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.1,Financiero
+244,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,11,6.45,Financiero
+245,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,5.68,Financiero
+246,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,4.13,Financiero
+247,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.03,Financiero
+248,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,6.05,Financiero
+249,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,3.72,Financiero
+250,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.13,Financiero
+251,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.13,Financiero
+252,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus International,Bases de Datos,Administracion de Base de Datos,Aplicaciones,2023,11,0.67,Financiero
+253,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,2.77,Financiero
+254,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Impresoras y Escaner,2023,11,4.65,Financiero
+255,Requerimiento,2023-11,Mediana,Baja,Mediana,Banplus International,Plataforma Distribuida,Administracion de Servidores,Comparticion de carpetas,2023,11,0.8,Financiero
+256,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,4.0,Financiero
+257,Requerimiento,2023-11,Mediana,Mediana,Mediana,AMAGI,Telecomunicaciones,Telecomunicaciones,Administracion de Redes,2023,11,1.65,Servicios
+258,Incidencia,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Bases de Datos,Administracion de Base de Datos,Administracion de Instancias,2023,11,3.38,Financiero
+259,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,1.17,Financiero
+261,Requerimiento,2023-11,Mediana,Mediana,Mediana,AMAGI,Plataforma Distribuida,Administracion de Servidores,Aplicaciones Corporativas,2023,11,0.07,Servicios
+262,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,0.45,Financiero
+263,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Telefonia,2023,11,0.33,Financiero
+264,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Telefonia,2023,11,1.48,Financiero
+265,Requerimiento,2023-11,Mediana,Baja,Mediana,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Implementaciones de Planes de Arranque,2023,11,0.52,Financiero
+266,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,4.75,Financiero
+267,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.05,Financiero
+268,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Bases de Datos,Administracion de Base de Datos,Administracion de Recursos,2023,11,0.77,Financiero
+269,Requerimiento,2023-11,Mediana,Baja,Mediana,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Implementaciones de Planes de Arranque,2023,11,0.2,Financiero
+270,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,6.48,Financiero
+271,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,1.67,Financiero
+272,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.17,Financiero
+273,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.03,Financiero
+274,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.13,Financiero
+275,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.8,Financiero
+276,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,5.38,Financiero
+277,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,1.87,Financiero
+278,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,0.0,Financiero
+279,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,3.65,Financiero
+280,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,4.03,Financiero
+281,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,4.22,Financiero
+282,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,4.73,Financiero
+283,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,3.7,Financiero
+284,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,11,5.53,Financiero
+285,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,5.32,Financiero
+286,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,2.72,Financiero
+287,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,2.83,Financiero
+288,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,2.2,Financiero
+289,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,2.1,Financiero
+290,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,2.92,Financiero
+291,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,2.57,Financiero
+292,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,1.87,Financiero
+293,Incidencia,2023-09,Mediana,Mediana,Mediana,Banplus International,Plataforma Distribuida,Administracion de Servidores,Aplicaciones de Servidor,2023,09,71.38,Financiero
+294,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,11,1.75,Financiero
+295,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,11,0.85,Financiero
+296,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Impresoras y Escaner,2023,11,1.63,Financiero
+297,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.12,Financiero
+298,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,1.17,Financiero
+299,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.13,Financiero
+300,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Manejo de Archivos,2023,11,0.08,Financiero
+301,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Implementaciones de Planes de Arranque,2023,11,1.18,Financiero
+302,Incidencia,2023-11,Muy urgente,Muy urgente,Muy urgente,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Ciberseguridad DLC,2023,11,1.17,Financiero
+303,Incidencia,2023-11,Muy urgente,Alta,Muy urgente,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Aplicaciones Corporativas,2023,11,0.65,Financiero
+304,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.3,Financiero
+305,Incidencia,2023-11,Muy urgente,Alta,Muy urgente,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Aplicaciones Corporativas,2023,11,3.73,Financiero
+306,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.18,Financiero
+307,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,5.77,Financiero
+308,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Impresoras y Escaner,2023,11,2.98,Financiero
+309,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Outlook (Escritorio),2023,11,2.13,Financiero
+310,Requerimiento,2023-11,Mediana,Baja,Mediana,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Implementaciones de Planes de Arranque,2023,11,0.15,Financiero
+311,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,1.75,Financiero
+312,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,2.23,Financiero
+313,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,1.77,Financiero
+314,Requerimiento,2023-11,Mediana,Baja,Mediana,Banplus International,Plataforma Distribuida,Administracion de Servidores,Configuracion Servidores,2023,11,9.08,Financiero
+315,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,1.3,Financiero
+316,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,2.8,Financiero
+317,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.18,Financiero
+318,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.22,Financiero
+319,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,1.15,Financiero
+320,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,0.05,Financiero
+321,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,11,3.77,Financiero
+322,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,2.1,Financiero
+323,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,3.23,Financiero
+324,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,2.95,Financiero
+325,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.22,Financiero
+326,Requerimiento,2023-11,Mediana,Baja,Mediana,Banplus International,Plataforma Distribuida,Administracion de Servidores,Directorio Activo,2023,11,0.5,Financiero
+327,Requerimiento,2023-11,Mediana,Mediana,Mediana,IUMO,Plataforma Distribuida,Administracion de Servidores,Aplicaciones de Servidor,2023,11,0.12,Servicios
+328,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Telefonia,2023,11,1.57,Financiero
+329,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,1.75,Financiero
+330,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,1.87,Financiero
+331,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Telefonia,2023,11,1.18,Financiero
+332,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,0.97,Financiero
+333,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,1.93,Financiero
+334,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,1.72,Financiero
+335,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,15.33,Financiero
+336,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,16.58,Financiero
+337,Requerimiento,2023-11,Mediana,Baja,Mediana,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Implementaciones de Planes de Arranque,2023,11,1.7,Financiero
+338,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Impresoras y Escaner,2023,11,1.55,Financiero
+339,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,0.38,Financiero
+340,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,1.2,Financiero
+341,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Telefonia,2023,11,1.05,Financiero
+342,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,0.45,Financiero
+343,Incidencia,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Plataforma Centralizada,Administracion Core Bancario (AS-400),Procesos,2023,11,49.02,Financiero
+344,Requerimiento,2023-11,Mediana,Baja,Mediana,Banplus Venezuela,Plataforma Centralizada,Administracion Core Bancario (AS-400),Implementaciones de Planes de Arranque,2023,11,0.12,Financiero
+345,Requerimiento,2023-11,Mediana,Mediana,Mediana,AMAGI,Plataforma Distribuida,Administracion de Servidores,Aplicaciones Corporativas,2023,11,0.48,Servicios
+346,Requerimiento,2023-11,Alta,Muy urgente,Muy urgente,AMAGI,Plataforma Distribuida,Administracion de Servidores,Directorio Activo,2023,11,0.13,Servicios
+347,Requerimiento,2023-11,Alta,Muy urgente,Muy urgente,AMAGI,Plataforma Distribuida,Administracion de Servidores,Directorio Activo,2023,11,0.22,Servicios
+348,Requerimiento,2023-11,Mediana,Mediana,Mediana,IUMO,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,18.72,Servicios
+349,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,0.38,Financiero
+350,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,0.47,Financiero
+351,Requerimiento,2023-11,Mediana,Mediana,Mediana,IUMO,Telecomunicaciones,Telecomunicaciones,Administracion de Redes,2023,11,0.22,Servicios
+352,Requerimiento,2023-11,Mediana,Baja,Mediana,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Implementaciones de Planes de Arranque,2023,11,0.2,Financiero
+353,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.05,Financiero
+354,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus International,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,0.33,Financiero
+355,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.18,Financiero
+356,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.07,Financiero
+357,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.53,Financiero
+358,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,2.23,Financiero
+359,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,2.18,Financiero
+360,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,3.95,Financiero
+361,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,4.95,Financiero
+362,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,2.78,Financiero
+364,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.12,Financiero
+365,Requerimiento,2023-11,Mediana,Baja,Mediana,Banplus International,Plataforma Distribuida,Administracion de Servidores,Comparticion de carpetas,2023,11,0.22,Financiero
+366,Requerimiento,2023-11,Mediana,Baja,Mediana,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Implementaciones de Planes de Arranque,2023,11,0.67,Financiero
+367,Incidencia,2023-11,Alta,Mediana,Alta,Banplus International,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,1.43,Financiero
+368,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.07,Financiero
+369,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,1.45,Financiero
+370,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,4.28,Financiero
+371,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,3.82,Financiero
+372,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,3.38,Financiero
+373,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,2.78,Financiero
+374,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,4.95,Financiero
+375,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,11,4.4,Financiero
+376,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Bases de Datos,Administracion de Base de Datos,Administracion de Instancias,2023,11,5.95,Financiero
+377,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,11,0.58,Financiero
+378,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.22,Financiero
+379,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,4.98,Financiero
+380,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,6.15,Financiero
+381,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Protocolos de Usuarios,2023,11,5.93,Financiero
+382,Incidencia,2023-11,Muy urgente,Muy urgente,Muy urgente,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Ciberseguridad DLC,2023,11,0.92,Financiero
+383,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,5.17,Financiero
+384,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,5.1,Financiero
+385,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Outlook (Escritorio),2023,11,5.32,Financiero
+386,Incidencia,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Bases de Datos,Administracion de Servidores,Aplicaciones Corporativas,2023,11,6.6,Financiero
+387,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,8.8,Financiero
+388,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,3.63,Financiero
+389,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,3.72,Financiero
+390,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,2.62,Financiero
+391,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.1,Financiero
+392,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,1.43,Financiero
+393,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.08,Financiero
+394,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Bases de Datos,Administracion de Base de Datos,Administracion de Instancias,2023,11,1.25,Financiero
+395,Requerimiento,2023-11,Mediana,Mediana,Mediana,AMAGI,Plataforma Distribuida,Administracion de Servidores,Configuracion Servidores,2023,11,1.18,Servicios
+396,Incidencia,2023-11,Muy urgente,Alta,Muy urgente,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Aplicaciones Corporativas,2023,11,0.5,Financiero
+397,Requerimiento,2023-11,Mediana,Baja,Mediana,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Implementaciones de Planes de Arranque,2023,11,0.38,Financiero
+398,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Bases de Datos,Administracion de Base de Datos,Administracion de Instancias,2023,11,1.15,Financiero
+399,Incidencia,2023-11,Muy urgente,Muy urgente,Muy urgente,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Ciberseguridad DLC,2023,11,0.72,Financiero
+400,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.1,Financiero
+401,Requerimiento,2023-11,Alta,Mediana,Alta,AMAGI,Plataforma Distribuida,Administracion de Servidores,Directorio Activo,2023,11,0.98,Servicios
+402,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,2.2,Financiero
+403,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,2.73,Financiero
+404,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,2.9,Financiero
+405,Requerimiento,2023-11,Alta,Alta,Alta,Banplus International,Telecomunicaciones,Telecomunicaciones,Administracion de Redes,2023,11,2.57,Financiero
+406,Requerimiento,2023-11,Mediana,Baja,Mediana,Banplus International,Plataforma Distribuida,Administracion de Servidores,Directorio Activo,2023,11,1.4,Financiero
+407,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,0.17,Financiero
+408,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,0.22,Financiero
+409,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,0.17,Financiero
+410,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,0.17,Financiero
+411,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,0.23,Financiero
+412,Incidencia,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Administracion de Servidores (Agencias),2023,11,0.65,Financiero
+413,Incidencia,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Administracion de Servidores (Agencias),2023,11,0.75,Financiero
+414,Incidencia,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Administracion de Servidores (Agencias),2023,11,0.57,Financiero
+415,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Aplicaciones Corporativas,2023,11,1.17,Financiero
+416,Requerimiento,2023-11,Mediana,Baja,Mediana,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Implementaciones de Planes de Arranque,2023,11,0.18,Financiero
+417,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Telefonia,2023,11,2.33,Financiero
+418,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Telefonia,2023,11,2.3,Financiero
+419,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Protocolos de Usuarios,2023,11,1.55,Financiero
+420,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,4.85,Financiero
+421,Requerimiento,2023-11,Mediana,Mediana,Mediana,IUMO,Plataforma Distribuida,Administracion de Servidores,Aplicaciones de Servidor,2023,11,1.42,Servicios
+422,Requerimiento,2023-11,Alta,Alta,Alta,AMAGI,Telecomunicaciones,Telecomunicaciones,Administracion de Redes,2023,11,0.4,Servicios
+423,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,4.43,Financiero
+424,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,11,0.72,Financiero
+425,Requerimiento,2023-11,Mediana,Mediana,Mediana,IUMO,Soporte Tecnico,Estaciones de Trabajo,Impresoras y Escaner,2023,11,2.08,Servicios
+426,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.1,Financiero
+427,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Telefonia,2023,11,3.17,Financiero
+428,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,4.63,Financiero
+429,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,3.05,Financiero
+430,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Impresoras y Escaner,2023,11,2.5,Financiero
+431,Requerimiento,2023-11,Muy urgente,Alta,Muy urgente,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Aplicaciones Corporativas,2023,11,0.18,Financiero
+432,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,4.05,Financiero
+433,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,11,4.6,Financiero
+434,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,11,8.1,Financiero
+435,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,4.05,Financiero
+436,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.67,Financiero
+437,Requerimiento,2023-11,Mediana,Baja,Mediana,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Configuracion Servidores,2023,11,2.23,Financiero
+438,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.18,Financiero
+440,Requerimiento,2023-11,Mediana,Baja,Mediana,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Configuracion Servidores,2023,11,1.0,Financiero
+441,Requerimiento,2023-11,Mediana,Baja,Mediana,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Configuracion Servidores,2023,11,1.0,Financiero
+442,Requerimiento,2023-11,Mediana,Baja,Mediana,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Configuracion Servidores,2023,11,0.93,Financiero
+443,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,0.22,Financiero
+444,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,2.63,Financiero
+445,Requerimiento,2023-11,Mediana,Baja,Mediana,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Configuracion Servidores,2023,11,0.97,Financiero
+446,Incidencia,2023-11,Muy urgente,Alta,Muy urgente,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Aplicaciones Corporativas,2023,11,0.53,Financiero
+447,Requerimiento,2023-11,Alta,Mediana,Alta,AMAGI,Plataforma Distribuida,Administracion de Servidores,Directorio Activo,2023,11,0.6,Servicios
+448,Incidencia,2023-11,Muy urgente,Alta,Muy urgente,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Aplicaciones Corporativas,2023,11,0.17,Financiero
+449,Requerimiento,2023-11,Mediana,Baja,Mediana,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Implementaciones de Planes de Arranque,2023,11,0.75,Financiero
+450,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,2.5,Financiero
+451,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.15,Financiero
+452,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus International,Bases de Datos,Administracion de Base de Datos,Aplicaciones,2023,11,1.53,Financiero
+453,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,11,0.82,Financiero
+454,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,2.67,Financiero
+455,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Telefonia,2023,11,2.58,Financiero
+456,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Telefonia,2023,11,3.1,Financiero
+457,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Outlook (Escritorio),2023,11,0.23,Financiero
+458,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,0.52,Financiero
+459,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Outlook (Escritorio),2023,11,0.0,Financiero
+460,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus International,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,0.3,Financiero
+461,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus International,Telecomunicaciones,Telecomunicaciones,Configuracion de Firewall,2023,11,0.45,Financiero
+462,Requerimiento,2023-11,Mediana,Mediana,Mediana,IUMO,Plataforma Distribuida,Administracion de Servidores,Aplicaciones de Servidor,2023,11,1.13,Servicios
+463,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus International,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,11,1.23,Financiero
+464,Requerimiento,2023-11,Alta,Alta,Alta,Banplus International,Telecomunicaciones,Telecomunicaciones,Administracion de Redes,2023,11,0.38,Financiero
+465,Requerimiento,2023-11,Alta,Baja,Alta,WOKI,Plataforma Distribuida,Administracion de Servidores,Aplicaciones de Servidor,2023,11,0.65,Servicios
+466,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,4.08,Financiero
+467,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.12,Financiero
+468,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Telefonia,2023,11,2.87,Financiero
+469,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Outlook (Escritorio),2023,11,4.88,Financiero
+470,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.07,Financiero
+471,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,2.78,Financiero
+472,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Telefonia,2023,11,2.87,Financiero
+473,Requerimiento,2023-11,Mediana,Baja,Mediana,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Implementaciones de Planes de Arranque,2023,11,0.1,Financiero
+474,Requerimiento,2023-11,Mediana,Baja,Mediana,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Implementaciones de Planes de Arranque,2023,11,0.35,Financiero
+475,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,4.3,Financiero
+476,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,4.38,Financiero
+477,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,11,4.8,Financiero
+478,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,4.47,Financiero
+479,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Telefonia,2023,11,2.6,Financiero
+480,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,3.7,Financiero
+481,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.15,Financiero
+482,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,2.23,Financiero
+483,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Impresoras y Escaner,2023,11,1.92,Financiero
+484,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,2.75,Financiero
+485,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,1.45,Financiero
+486,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,3.75,Financiero
+487,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,4.55,Financiero
+488,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.43,Financiero
+489,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,3.22,Financiero
+490,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,2.92,Financiero
+491,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,2.83,Financiero
+492,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,2.77,Financiero
+493,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,2.52,Financiero
+494,Incidencia,2023-11,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,11,0.15,Financiero
+495,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,1.63,Financiero
+496,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Outlook (Escritorio),2023,11,1.32,Financiero
+497,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,2.78,Financiero
+498,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,3.12,Financiero
+499,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,1.95,Financiero
+500,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus International,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,1.15,Financiero
+501,Requerimiento,2023-11,Mediana,Baja,Mediana,Banplus International,Plataforma Distribuida,Administracion de Servidores,Servcio de Correo Electronico (Office 365),2023,11,0.2,Financiero
+502,Requerimiento,2023-11,Alta,Alta,Alta,Banplus International,Bases de Datos,Administracion de Base de Datos,Administracion de Usuarios,2023,11,0.38,Financiero
+503,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus International,Soporte Tecnico,Administracion de Servidores,Directorio Activo,2023,11,0.35,Financiero
+504,Requerimiento,2023-10,Mediana,Mediana,Mediana,AMAGI,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,10,2.5,Servicios
+505,Requerimiento,2023-11,Mediana,Baja,Mediana,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Implementaciones de Planes de Arranque,2023,11,0.43,Financiero
+506,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,3.97,Financiero
+507,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,2.58,Financiero
+508,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,2.35,Financiero
+509,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,2.32,Financiero
+510,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,3.17,Financiero
+511,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,11,3.23,Financiero
+512,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Outlook (Escritorio),2023,11,2.28,Financiero
+513,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Outlook (Escritorio),2023,11,1.2,Financiero
+514,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Outlook (Escritorio),2023,11,2.0,Financiero
+515,Incidencia,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Plataforma Centralizada,Administracion Core Bancario (AS-400),Servicios,2023,11,0.28,Financiero
+516,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,2.4,Financiero
+517,Incidencia,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Bases de Datos,Administracion de Servidores,Aplicaciones Corporativas,2023,11,0.67,Financiero
+518,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,1.02,Financiero
+519,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,11,2.12,Financiero
+520,Requerimiento,2023-11,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,11,1.63,Financiero
+521,Incidencia,2023-11,Mediana,Mediana,Mediana,Banplus Venezuela,Plataforma Centralizada,Administracion de Servidores,Aplicaciones Corporativas,2023,11,0.25,Financiero
+522,Requerimiento,2023-11,Alta,Mediana,Mediana,AMAGI,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,11,1.17,Servicios
+523,Requerimiento,2023-10,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,10,2.6,Financiero
+524,Requerimiento,2023-10,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,10,2.72,Financiero
+525,Requerimiento,2023-10,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,10,2.75,Financiero
+526,Requerimiento,2023-10,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,10,4.18,Financiero
+527,Requerimiento,2023-10,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,10,2.17,Financiero
+528,Requerimiento,2023-10,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,10,3.35,Financiero
+529,Incidencia,2023-10,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,10,0.32,Financiero
+530,Requerimiento,2023-10,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,10,3.97,Financiero
+531,Requerimiento,2023-10,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,10,1.73,Financiero
+532,Requerimiento,2023-10,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,10,1.07,Financiero
+533,Requerimiento,2023-10,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,10,2.05,Financiero
+534,Requerimiento,2023-10,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,10,3.82,Financiero
+535,Requerimiento,2023-10,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,10,3.5,Financiero
+536,Requerimiento,2023-10,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,10,1.62,Financiero
+537,Requerimiento,2023-10,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,10,1.77,Financiero
+538,Incidencia,2023-10,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,10,0.1,Financiero
+539,Incidencia,2023-10,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,10,0.18,Financiero
+540,Incidencia,2023-10,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,10,0.1,Financiero
+541,Requerimiento,2023-10,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,10,2.47,Financiero
+542,Requerimiento,2023-10,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,10,2.37,Financiero
+543,Requerimiento,2023-10,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,10,0.1,Financiero
+544,Requerimiento,2023-10,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,10,2.27,Financiero
+545,Requerimiento,2023-10,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,10,2.2,Financiero
+546,Incidencia,2023-10,Muy urgente,Alta,Muy urgente,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Aplicaciones Corporativas,2023,10,0.15,Financiero
+547,Requerimiento,2023-10,Mediana,Baja,Mediana,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Configuracion Servidores,2023,10,0.48,Financiero
+548,Requerimiento,2023-11,Alta,Alta,Alta,Banplus International,Telecomunicaciones,Telecomunicaciones,Administracion de Redes,2023,11,0.37,Financiero
+549,Requerimiento,2023-10,Mediana,Baja,Mediana,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Implementaciones de Planes de Arranque,2023,10,1.75,Financiero
+550,Requerimiento,2023-10,Mediana,Baja,Mediana,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Configuracion Servidores,2023,10,0.57,Financiero
+551,Requerimiento,2023-10,Mediana,Baja,Mediana,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Configuracion Servidores,2023,10,0.6,Financiero
+552,Requerimiento,2023-10,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Administracion de Redes,2023,10,0.07,Financiero
+554,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus International,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,11,0.85,Financiero
+555,Requerimiento,2023-11,Mediana,Mediana,Mediana,Banplus International,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,11,0.87,Financiero
+556,Requerimiento,2023-11,Alta,Alta,Alta,AMAGI,Telecomunicaciones,Telecomunicaciones,Administracion de Redes,2023,11,0.27,Servicios
+557,Requerimiento,2023-11,Alta,Alta,Alta,AMAGI,Telecomunicaciones,Telecomunicaciones,Administracion de Redes,2023,11,0.3,Servicios
+558,Requerimiento,2023-11,Mediana,Mediana,Mediana,AMAGI,Telecomunicaciones,Telecomunicaciones,Enlaces de comunicacion,2023,11,1.93,Servicios
+559,Requerimiento,2023-10,Mediana,Mediana,Mediana,Banplus International,Soporte Tecnico,Administracion de Servidores,Servcio de Correo Electronico (Office 365),2023,10,4.95,Financiero
+560,Requerimiento,2023-10,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Outlook (Escritorio),2023,10,2.55,Financiero
+561,Requerimiento,2023-10,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,10,0.45,Financiero
+562,Requerimiento,2023-10,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,10,2.45,Financiero
+563,Requerimiento,2023-10,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Protocolos de Usuarios,2023,10,2.1,Financiero
+564,Requerimiento,2023-10,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,10,4.27,Financiero
+565,Requerimiento,2023-10,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,10,5.18,Financiero
+566,Incidencia,2023-10,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,10,0.07,Financiero
+567,Incidencia,2023-10,Alta,Alta,Alta,Banplus Venezuela,Telecomunicaciones,Telecomunicaciones,Manejo de Alertas de Firewalls / Switches / Routers,2023,10,0.48,Financiero
+568,Requerimiento,2023-10,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,10,2.67,Financiero
+569,Requerimiento,2023-10,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,10,4.0,Financiero
+570,Requerimiento,2023-10,Mediana,Baja,Mediana,Banplus Venezuela,Plataforma Distribuida,Administracion de Servidores,Implementaciones de Planes de Arranque,2023,10,0.12,Financiero
+571,Requerimiento,2023-10,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,10,3.82,Financiero
+572,Requerimiento,2023-10,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,10,3.77,Financiero
+573,Requerimiento,2023-10,Alta,Mediana,Alta,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Hardware,2023,10,2.3,Financiero
+574,Requerimiento,2023-10,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,10,1.82,Financiero
+575,Requerimiento,2023-10,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones de Escritorio,2023,10,1.48,Financiero
+576,Requerimiento,2023-10,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Aplicaciones Corporativas,2023,10,3.33,Financiero
+577,Requerimiento,2023-10,Mediana,Mediana,Mediana,Banplus Venezuela,Soporte Tecnico,Estaciones de Trabajo,Manejo de Equipos,2023,10,1.58,Financiero

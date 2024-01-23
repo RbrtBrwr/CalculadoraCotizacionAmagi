@@ -1,0 +1,41 @@
+﻿@page "/SeleccionOngoing/{sabor}"
+@using System.Collections.Generic
+@using CalculadoraPianoPiano.Shared
+@inject NavigationManager NavigationManager
+
+<PageTitle>Seleccion Ongoing</PageTitle>
+<h3>Seleccion de Servicios Ongoing @sabor</h3>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <div style="border:double">
+        <h4 style="display:block">  Monitoreo  </h4>
+    </div>
+    <br />
+    <div style="border:double">
+        <h4 style="display:block">  Centro de Gestion  </h4>
+    </div>
+    <br />
+    <div style="border:double">
+        <h4 style="display:block">  DOCs  </h4>
+    </div>
+    <br />
+    <div style="border:double">
+        <h4 style="display:block">  Servicios Adicionales  </h4>
+    </div>  
+
+</div>
+
+
+
+
+@code {
+
+    [Parameter]
+    public string sabor { get; set; }
+
+    [CascadingParameter]
+    public Cliente? nuevoCliente { get; set; }
+
+
+}
+
+

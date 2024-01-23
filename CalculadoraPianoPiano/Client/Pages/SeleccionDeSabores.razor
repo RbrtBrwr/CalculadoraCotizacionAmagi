@@ -5,6 +5,7 @@
 <PageTitle>Seleccion De Sabores</PageTitle>
 
 <h3>Seleccion de Sabores GIA</h3>
+
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
     <div style="display: flex; flex-wrap: wrap; justify-content: center;">
         <button class="large-button" @onclick="navegarATIC">GIA TIC</button>
@@ -12,16 +13,11 @@
         <button class="large-button" @onclick="navegarAIoT">GIA IoT</button>
         <button class="large-button" @onclick="navegarACiberSeguridad">GIA Ciber Seguridad</button>
     </div>
+    <br />
+    <button @onclick='() => NavigationManager.NavigateTo("resumen")'>Ir a Resumen de Servicios</button>
 </div>
 
-@*TODO: estas son pruebas*@
-<p>Cliente: @nuevoCliente.InfoCliente.Nombre</p>
-<p>Madurez: @nuevoCliente.InfoCliente.Madurez</p>
-<p>Sector: @nuevoCliente.InfoCliente.Sector</p>
 
-
-
-<button @onclick='() => NavigationManager.NavigateTo("resumen")'>Ir a Resumen de Servicios</button>
 
 @code {
     [CascadingParameter]

@@ -1,0 +1,43 @@
+﻿Telecomunicaciones,Esfuerzo Telecomunicaciones,Plataforma Distribuida,Esfuerzo Plataforma Distribuida,Plataforma Centralizada,Esfuerzo Plataforma Centralizada,Bases de Datos,Esfuerzo Bases de Datos
+Setup Complejidad Baja,1,Setup Servidor Windows Previo 2012,1.3,Setup Sin Contrato,3.33,Setup SQL,1.1
+Setup Complejidad Media,1.1,Setup Servidor Windows Post 2012 No Actualizado,1.15,Setup Contrato de Software,3.33,Setup SQL Nueva,1
+Setup Complejidad Alta,1.2,Setup Servidor Windows Actualizado,0.9,Setup Contrato de Hardware,3.33,Setup Oracle,1.4
+Setup Centralizado,1,Setup Servidor Unix Previo 2012,1.3,Setup Contrato de Actualizacion,3.33,Setup Oracle Nueva,1.3
+Setup Parcialmente Centralizado,1.1,Setup Servidor Unix Post 2012 No Actualizado,1.2,Setup Contrato Secundario,3.33,Setup Otras Nueva,1.35
+Setup No Centralizado,1.2,Setup Servidor Unix Actualizado,1,Setup Contrato Completo,3.33,Setup Otras,1.4
+Setup Routers TP-Link,1,Setup Servidor Otros Actualizado,1.2,Ongoing Sin Contrato,3.33,Setup Actualizacion Baja,1.2
+Setup Routers Ubiquity,1,Setup Servidor Unix Nuevo,1.1,Ongoing Contrato de Software,3.33,Setup Actualizacion Parcial,1.1
+Setup Routers Otros,1.2,Setup Servidor Windows Nuevo,1,Ongoing Contrato de Hardware,3.33,Setup Actualizacion Completa,1
+Setup Firewalls Fortinet,1,Setup Servidor Otros No Actualizado,1.3,Ongoing Contrato de Actualizacion,3.33,Setup Centralizado,1
+Setup Firewalls Otros,1.2,Setup Servidor Otros Nuevo,1.25,Ongoing Contrato Secundario,3.33,Setup Parcialmente Centralizado,1.1
+Setup Centrales Avaya,1,Setup Servicio On-Site No Centralizado,1.2,Ongoing Contrato Completo,3.33,Setup No Centralizado,1.2
+Setup Centrales Otros,1.2,Setup Servicio On-Site Parcialmente Centralizado,1.15,Setup Equipo AS400,3.33,Setup Servicio On-Site,1.2
+Setup Switches Cisco,1,Setup Servicio Hibrido No Centralizado,1.15,Setup Equipo A,3.33,Setup Servicio Remoto,1
+Setup Switches Otros,1.2,Setup Servicio Hibrido Parcialmente Centralizado,1.1,Setup Equipo B,3.33,Setup Servicio Hibrido,1.1
+Setup Servicio On-Site,1.2,Setup Centralizado,1,Setup Equipo C,3.33,Setup Servicio On-Site No Centralizado,1.2
+Setup Servicio Remoto,1,Setup Parcialmente Centralizado,1.1,Setup Equipo D,3.33,Setup Servicio On-Site Parcialmente Centralizado,1.15
+Setup Servicio Hibrido,1.1,Setup No Centralizado,1.2,Setup Equipo E,3.33,Setup Servicio Hibrido No Centralizado,1.15
+Setup Actualizacion Completa,1,Setup Servicio On-Site,1.2,,,Setup Servicio Hibrido Parcialmente Centralizado,1.1
+Setup Actualizacion Parcial,1.1,Setup Servicio Remoto,1,,,Setup Alta Disponibilidad,3.33
+Setup Actualizacion Baja,1.2,Setup Servicio Hibrido,1.1,,,Ongoing SQL,1
+Setup Servicio On-Site No Centralizado,1.2,Setup Azure,1,,,Ongoing Oracle,1.3
+Setup Servicio On-Site Parcialmente Centralizado,1.15,Setup AWS,1,,,Ongoing Otras,1.3
+Setup Servicio Hibrido No Centralizado,1.15,Setup Google,1,,,Ongoing Centralizado,1
+Setup Servicio Hibrido Parcialmente Centralizado,1.1,Setup Otro,1,,,Ongoing Parcialmente Centralizado,1.1
+Ongoing Complejidad Baja,1,Ongoing Servidor Unix,1.1,,,Ongoing No Centralizado,1.2
+Ongoing Complejidad Media,1.1,Ongoing Servidor Windows,1,,,Ongoing Servicio On-Site,1.2
+Ongoing Complejidad Alta,1.2,Ongoing Servidor Otros,1.15,,,Ongoing Servicio Remoto,1
+Ongoing Centralizado,1,Ongoing Servicio On-Site No Centralizado,1.2,,,Ongoing Servicio Hibrido,1.1
+Ongoing Parcialmente Centralizado,1.1,Ongoing Servicio On-Site Parcialmente Centralizado,1.15,,,Ongoing Servicio On-Site No Centralizado,1.2
+Ongoing No Centralizado,1.2,Ongoing Servicio Hibrido No Centralizado,1.15,,,Ongoing Servicio On-Site Parcialmente Centralizado,1.15
+Ongoing Routers,1.05,Ongoing Servicio Hibrido Parcialmente Centralizado,1.1,,,Ongoing Servicio Hibrido No Centralizado,1.15
+Ongoing Firewalls,1.15,Ongoing Centralizado,1,,,Ongoing Servicio Hibrido Parcialmente Centralizado,1.1
+Ongoing Centrales,1,Ongoing Parcialmente Centralizado,1.1,,,Ongoing Criticidad Alta,3.33
+Ongoing Switches,1,Ongoing No Centralizado,1.2,,,Ongoing Criticidad Media,3.33
+Ongoing Servicio On-Site,1.2,Ongoing Servicio On-Site,1.2,,,Ongoing Criticidad Baja,3.33
+Ongoing Servicio Remoto,1,Ongoing Servicio Remoto,1,,,,
+Ongoing Servicio Hibrido,1.1,Ongoing Servicio Hibrido,1.1,,,,
+Ongoing Servicio On-Site No Centralizado,1.2,Ongoing Azure,1,,,,
+Ongoing Servicio On-Site Parcialmente Centralizado,1.15,Ongoing AWS,1,,,,
+Ongoing Servicio Hibrido No Centralizado,1.15,Ongoing Google,1,,,,
+Ongoing Servicio Hibrido Parcialmente Centralizado,1.1,Ongoing Otro,1,,,,

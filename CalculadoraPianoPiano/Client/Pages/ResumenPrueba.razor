@@ -1,0 +1,42 @@
+﻿@page "/resumenPrueba"
+@inject NavigationManager NavigationManager
+@using CalculadoraPianoPiano.Shared
+
+<div>
+    <p>Pruebas</p>
+    <ul>
+        @foreach (Setup lis in nuevoCliente.ListasGIA.ListasTIC.ListaSetupTIC.ListaTelecomunicaciones)
+        {
+            <li>
+                @lis.TipoEquipo.Nombre
+            </li>
+            <li>
+                @lis.Cantidad
+            </li>
+            <li>
+                @lis.Actualizacion.Nombre
+            </li>
+            <li>
+                @lis.Atencion.Nombre
+            </li>
+            <li>
+                @lis.Distribucion.Nombre
+            </li>
+            <li>
+                @lis.Costo
+            </li>
+            <li>
+                =============================================
+            </li>
+        }
+    </ul>
+</div>
+
+@code
+{
+    [Parameter]
+    public string sabor { get; set; }
+
+    [CascadingParameter]
+    public Cliente? nuevoCliente { get; set; }
+}
